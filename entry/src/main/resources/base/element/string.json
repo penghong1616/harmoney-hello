@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "center_button",
+      "value": "中心按钮"
+    },
+    {
+      "name": "centralability_HelloWorld",
+      "value": "详细功能"
+    }
+  ]
+}
